@@ -1,0 +1,16 @@
+name: makemorecrystals
+version: 0.1.0
+
+authors:
+  - Lucian Buzzo <lucian.buzzo@gmail.com>
+
+description: |
+  Make more in crystal
+
+crystal: 1.9.2
+
+license: MIT
+
+dependencies:
+  num:
+    github: crystal-data/num.cr
